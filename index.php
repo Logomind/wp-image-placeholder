@@ -45,7 +45,7 @@ class placeholder {
         <div id="popup_container" style="display:none;">
             <p>You can choose a placeholder size, or you can choose for the custom placeholder.</p>
         </div>
-        test
+        test2
         <?php
     }
 
